@@ -1,3 +1,8 @@
+def superfunction():
+    print('Привет Python!')
+
+
+
 def main():
     print("Первый принт")
     print("Второй принт")
